@@ -1,0 +1,9 @@
+{
+"csvFile": "C:\\Temp\\ign.csv", 
+"tableName": "<insert table name>", 
+"dbName": "postgres", 
+"host": "localhost", 
+"port": "5432", 
+"user": "<insert username>", 
+"password": "<insert password>"
+}
